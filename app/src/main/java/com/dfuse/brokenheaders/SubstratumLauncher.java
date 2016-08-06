@@ -1,4 +1,4 @@
-package substratum.theme.template;
+package com.dfuse.brokenheaders;
 
 import android.app.Activity;
 import android.content.ComponentName;
@@ -9,6 +9,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
+
 
 import com.github.javiersantos.piracychecker.PiracyChecker;
 import com.github.javiersantos.piracychecker.PiracyCheckerUtils;
